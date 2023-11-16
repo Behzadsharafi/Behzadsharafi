@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **BehzadSharafi@gmail.com**
 
-- ⚡ When I am not coding? **I am probably playing the piano!**
+- 🎹 When I am not coding? **I am probably playing the piano!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
