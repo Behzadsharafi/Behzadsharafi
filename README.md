@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Employee Creator](https://github.com/Behzadsharafi/EmployeeCreator)
 
-- 📫 How to reach me **BehzadSharafi@gmail.com**
+- 📫 You can reach me via **BehzadSharafi@gmail.com**
 
 - 🎹 When I am not coding? **I am probably playing the piano!**
 
