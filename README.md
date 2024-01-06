@@ -1,3 +1,4 @@
+<div align="center"> <img src="/images/matrix.gif" alt='The Matrix' width='800'/> </div>
 <h1 align="center">Hi 👋, I'm Zad Sharafi</h1>
 <h3 align="center">A full-stack web developer based in Sydney, Australia.</h3>
 
