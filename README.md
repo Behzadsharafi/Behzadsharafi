@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zadsharafi.netlify.app/](https://zadsharafi.netlify.app/)
 
-- 🔭 I’m currently working on [Employee Creator](https://github.com/Behzadsharafi/EmployeeCreator)
+- 🔭 I’m currently working on [Events Calendar](https://github.com/Behzadsharafi/EventsCalendar)
 
 - 📫 You can reach me via **BehzadSharafi@gmail.com**
 
